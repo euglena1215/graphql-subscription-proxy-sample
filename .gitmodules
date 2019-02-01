@@ -1,0 +1,3 @@
+[submodule "ruby-websockets-chat-demo"]
+	path = ruby-websockets-chat-demo
+	url = git@github.com:euglena1215/ruby-websockets-chat-demo.git
